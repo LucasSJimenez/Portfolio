@@ -1,2 +1,4 @@
 pandas
-PyMuPDF
+numpy
+faiss-cpu
+sentence-transformers
